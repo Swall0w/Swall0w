@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swall0w&theme=prussian" />
 </a>
+
+- 🔭 I’m currently working on Machine Learning Projects for Computer Vision mainly.
+- 🌱 I’m currently learning Rust and Python.
