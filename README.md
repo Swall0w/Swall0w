@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+[![test](https://img.shields.io/badge/test-failed-green.svg?style=flat)](LICENSE)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
