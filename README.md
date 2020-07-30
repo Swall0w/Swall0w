@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Swall0w&theme=prussian&count_private=true&show_icons=true" />
 </a>
@@ -20,5 +23,3 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swall0w&theme=prussian" />
 </a>
 
-- 🔭 I’m currently working on Machine Learning Projects for Computer Vision mainly.
-- 🌱 I’m currently learning Rust and Python.
